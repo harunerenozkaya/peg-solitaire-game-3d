@@ -31,9 +31,28 @@ It is coded using C# in the Unity game engine.
 
 ## Screenshots
 
-* Login Page and Forgot Password Page <br><br>
-    <!-- <img src = "images/logo.png" height=200> &nbsp; -->
-    <!-- <img src = "images/logo.png" height=200> &nbsp; -->
+* Home <br><br>
+    <img src = "images/mainmenu.png" height=400> <br>
+
+* Board Type <br><br>
+    <img src = "images/boardtype.png" height=400> <br>
+
+* Player Type <br><br>
+    <img src = "images/playertype.png" height=400> <br>
+
+* In game <br><br>
+    <img src = "images/ingamestart.png" height=400> <br>
+    <img src = "images/ingamemovement.png" height=400> <br>
+    <img src = "images/ingameend.png" height=400> <br>
+
+* Score <br><br>
+    <img src = "images/score.png" height=400> <br>
+    <img src = "images/scorehided.png" height=400> <br>
+
+* Save and Load Game <br><br>
+    <img src = "images/save.png" height=400> <br>
+    <img src = "images/save2.png" height=400> <br>
+    <img src = "images/loadgame.png" height=400> <br>
 
 ## System Requirements
 
